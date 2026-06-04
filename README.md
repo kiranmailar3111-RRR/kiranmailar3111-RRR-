@@ -1,6 +1,6 @@
 # Hi, I'm Ravikiran G Mailar ■
 ### Full Stack Developer | Laravel · Livewire · WordPress · React.js
-I'm a Full Stack Developer with **2.3 years of experience** building
+I'm a Full Stack Developer with **2.4 years of experience** building
 scalable web applications, SaaS products, and client websites.
 Based in **Bengaluru, India**
 ---
